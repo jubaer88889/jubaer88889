@@ -1,28 +1,28 @@
 ![I am jubaer88889] ([https://github.com/harun181/harun181/blob/main/code.png](https://github.com/jubaer88889/jubaer88889/blob/main/code.png))
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h1 align="center">Hi 👋, I'm JUBAIER AHMED(Shuvo)</h1>
+<h3 align="center">Programmer | Web Designer | Speed Learner</h3>
+
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=jubaer88889&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: C / C++ / Java / BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
 - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning  JS, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/jubaer88889](https://github.com/jubaer88889)
-
-
+- 
 
 
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 
